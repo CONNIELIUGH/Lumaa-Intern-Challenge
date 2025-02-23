@@ -8,7 +8,7 @@ I obtained my dataset from The Movie Database (TMDB) API, which includes the mos
 
 ## Setup
 
-Download the GitHub repository and open it in the terminal. If you don’t have Jupyter installed, MacBook users can install it using pip install jupyter. Then, type the command "jupyter notebook" or "jupyter-notebook" to open the folder in the Jupyter environment.
+Download the GitHub repository (https://github.com/CONNIELIUGH/Lumaa-Intern-Challenge.git) and open it in the terminal. If you don’t have Jupyter installed, MacBook users can install it using pip install jupyter. Then, type the command "jupyter notebook" or "jupyter-notebook" to open the folder in the Jupyter environment.
 Follow the instructions under the “Import Libraries” section in Final_code.ipynb to download the recommended versions of the required libraries for this project.
 
 ❗️❗️I recommend watching my demo video, which is a bit long but provides clear instructions on downloading libraries and guidance on running the model! 😄
